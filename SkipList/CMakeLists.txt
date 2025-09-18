@@ -5,6 +5,5 @@ set(CMAKE_CXX_STANDARD 23)
 
 add_library(untitled1 STATIC
         Iterator.h
-        testmain.cpp
         SkipNode.h
 )
